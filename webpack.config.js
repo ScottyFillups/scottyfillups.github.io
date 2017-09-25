@@ -1,10 +1,10 @@
 var path = require('path')
 
 module.exports = {
-  entry: './docs/script.js',
+  entry: './src/script.js',
   output: {
     filename: 'bundle.js',
-    path: path.join(__dirname, './docs')
+    path: __dirname
   },
   devtool: 'inline-source-map',
   devServer: {
