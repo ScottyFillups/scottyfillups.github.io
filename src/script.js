@@ -1,4 +1,4 @@
-//import vizplex from 'vizplex'
+import vizplex from 'vizplex'
 import fit from 'canvas-fit'
 
 var rgbaFns = [
