@@ -1,3 +1,3 @@
-# scottyfillups.io
+# Home, sweet home
 
-My portfolio site, found [here](http://scottyfillups.github.io)
+My portfolio site, highlighting my works. Visit it [here](http://scottyfillups.io).
